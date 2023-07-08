@@ -1,6 +1,7 @@
 # Game of Life in JS
 
 TEJ Academy workshop.
+[Click here](https://tajpuriya27.github.io/game-of-life/) to view the hosted site. Hosted on GitHub pages.
 
 # Conway's game of life
 
