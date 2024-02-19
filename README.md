@@ -1,6 +1,5 @@
 # Game of Life in JS
 
-TEJ Academy workshop.
 [Click here](https://tajpuriya27.github.io/game-of-life/) to view the hosted site. Hosted on GitHub pages.
 
 # Conway's game of life
@@ -27,3 +26,7 @@ The game of life is played on a 2D board (easily modeled as a 2D array), where e
 The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed — in other words, each generation is a pure function of the preceding one. The discrete moment at which all the births and deaths actually occur is often called a step. The rules are applied repeatedly to create further generations (one new generation per step).
 
 ---
+
+## Further Expansion:
+
+- Click on any td element of table and drag to paint the boxes.

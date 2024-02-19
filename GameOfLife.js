@@ -68,17 +68,3 @@ class GameOfLife {
     this.board = newBoard;
   }
 }
-
-// // debugger;
-// let game = new GameOfLife(6, 5);
-// // console.log(game.makeBoard());
-// game.board[1][3] = 1;
-// game.board[2][2] = 1;
-// game.board[2][3] = 1;
-// game.board[3][2] = 1;
-// // debugger;
-// // console.log(game.livingNeighbors(3, 0));
-// debugger;
-// console.dir(game.board);
-// game.tick();
-// console.dir(game.board);
